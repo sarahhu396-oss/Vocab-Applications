@@ -1,0 +1,7 @@
+NOTION_TOKEN=secret_xxx
+NOTION_DATABASE_ID=xxx
+MERRIAM_API_KEY=        # optional; leave blank to use Free Dictionary API only
+GEMINI_API_KEY=xxx
+RESEND_API_KEY=re_xxx
+YOUR_EMAIL=you@example.com
+SHORTCUT_BEARER_TOKEN=pick-any-random-string
